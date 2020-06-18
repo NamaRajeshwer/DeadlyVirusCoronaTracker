@@ -1,0 +1,33 @@
+body{
+    background-color: rgba(224, 229, 235, 0.863);
+    
+   
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    
+ }
+ .label{
+     font-weight: bold;
+ }
+  
+  .image {
+    width: 570px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+  
+  @media only screen and (max-width: 770px) {
+    .container {
+      margin: 0 10%;
+    }
+  
+    .image {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+  }

@@ -1,0 +1,35 @@
+
+
+
+
+.infected{
+    border-bottom: 10px solid rgb(0, 0, 255);
+}
+
+.recovered{
+    border-bottom: 10px solid rgb(0, 255, 0);
+}
+
+.deaths{
+    border-bottom: 10px solid rgb(252, 3, 3);
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px 0;
+  }
+  
+  .Card {
+    margin: 0 2% !important;
+  }
+   
+  
+  @media only screen and (max-width: 770px) {
+    .card {
+      margin: 2% 0 !important;
+    }
+  }
+
