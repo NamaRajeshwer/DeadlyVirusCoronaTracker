@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DeadlyVirusCoronaTracker/static/css/main.a59112b8.chunk.css",
+    "main.js": "/DeadlyVirusCoronaTracker/static/js/main.af25cc6c.chunk.js",
+    "main.js.map": "/DeadlyVirusCoronaTracker/static/js/main.af25cc6c.chunk.js.map",
+    "runtime-main.js": "/DeadlyVirusCoronaTracker/static/js/runtime-main.799921dd.js",
+    "runtime-main.js.map": "/DeadlyVirusCoronaTracker/static/js/runtime-main.799921dd.js.map",
+    "static/js/2.edbfd8ba.chunk.js": "/DeadlyVirusCoronaTracker/static/js/2.edbfd8ba.chunk.js",
+    "static/js/2.edbfd8ba.chunk.js.map": "/DeadlyVirusCoronaTracker/static/js/2.edbfd8ba.chunk.js.map",
+    "index.html": "/DeadlyVirusCoronaTracker/index.html",
+    "precache-manifest.437844110f092f704da13f48b1a1191d.js": "/DeadlyVirusCoronaTracker/precache-manifest.437844110f092f704da13f48b1a1191d.js",
+    "service-worker.js": "/DeadlyVirusCoronaTracker/service-worker.js",
+    "static/css/main.a59112b8.chunk.css.map": "/DeadlyVirusCoronaTracker/static/css/main.a59112b8.chunk.css.map",
+    "static/js/2.edbfd8ba.chunk.js.LICENSE.txt": "/DeadlyVirusCoronaTracker/static/js/2.edbfd8ba.chunk.js.LICENSE.txt",
+    "static/media/image4.png": "/DeadlyVirusCoronaTracker/static/media/image4.690051ed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.799921dd.js",
+    "static/js/2.edbfd8ba.chunk.js",
+    "static/css/main.a59112b8.chunk.css",
+    "static/js/main.af25cc6c.chunk.js"
+  ]
+}
