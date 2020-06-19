@@ -23,7 +23,7 @@ debugger;
     <CountUp start={0} duration={2.5} separator="," />
     </Typography>
     <Typography color="textSecondary" >{new Date(lastdate).toDateString()}</Typography>
-                        <Typography variant="body2">Number of active cases of COVID-19. </Typography>
+                        <Typography variant="body2">Number of infected cases of COVID-19. </Typography>
                     </CardContent>
                 </Grid>
                 <Grid item component={Card} xs={12} md={3} className={cx(styles.Card, styles.recovered)}>
