@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DeadlyVirusCoronaTracker/precache-manifest.0b7508147cef51d164d83f1fc2ef71d5.js"
+  "/DeadlyVirusCoronaTracker/precache-manifest.a942cc9a4805c5cacfee6d463caa826a.js"
 );
 
 self.addEventListener('message', (event) => {
